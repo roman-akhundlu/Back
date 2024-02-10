@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header nav {
+font-size: 16px;
+display: inline-block;
+margin-left: 450px;
+margin-top: -60px;
+}
+
+header nav a {
+    color: white;
+    margin-right: 80px;
+}
+
+
+
+.sef {
+    padding-left: 20px;
+}
+
+.signin {
+    margin-top: 70px;
+
+  }
+
+
+.gens {
+    color: #2E5291;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+.ai {
+    color: white;
+    margin-left: 40px;
+    justify-content: space-between;
+    font-size: larger;
+}
+
+.lorem {
+    color: #A4A7AC;
+    margin-left: 40px;
+}
+
+.video {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.get {
+    margin-left: 50px;
+}
+
+.future {
+    display: block;
+    padding-left: 680px;
+    margin-top: -480px;
+  }
+
+.sirketler {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+
+.sirketler img  {
+    margin-right: 100px;
+}
+
+
+.roman img {
+    margin-left: 1300px;
+    margin-top: -200px;
+}
+
+
+.bruise img {
+    margin-top: 100px;
+}
+
+.word h1 {
+    color: white;
+}
+
+.word {
+    margin-top: -550px;
+    margin-left: 810px;
+}
+
+.lay h1 {
+    margin: 40px;
+    color: #A4A7AC;
+    font-size: 16px;
+    opacity: 1;
+    margin-left: 800px;
+}
+
+.learn img {
+    margin-left: 810px;
+}
+
+.pics {
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+.pics img {
+    margin-right: 100px;
+    margin-left: 120px;
+}
+
+.pics h1 {
+    color: #b7babe;
+    margin-left: 40px;
+}
+
+
+.pics {
+    background-color: #0f1624;
+}
+
+
+.pics .lore {
+    font-size: 16px;
+}
+
+
+
+@media(min-width:768px) {
+    header nav {
+        display: block;
+    }
+    .fa-bars  {
+        display: none;
+    }
+    }
+    
+    
+    @media(min-width:576px) {
+        .parentdiv  {
+            max-width: 100%;
+        }
+    }
+    
+    @media(min-width:768px) {
+        .parentdiv {
+            max-width: 100%;
+        }
+    }
+    
+    @media(min-width:992px) {
+        .parentdiv {
+            max-width:960;
+            margin: 0 auto;
+        }
+    }
+
+    @media(min-width: 1200px) {
+        .parentdiv {
+            max-width: 1140;
+            margin: 0 auto;
+    
+        }
+    }
+
+    @media(min-width:  1400px) {
+        .parentdiv {
+            max-width: 1320;
+            margin: 0 auto;
+        }
+    }
