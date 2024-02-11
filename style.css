@@ -27,10 +27,7 @@ header nav a {
     padding-left: 20px;
 }
 
-.signin {
-    margin-top: 70px;
 
-  }
 
 
 .gens {
@@ -52,30 +49,17 @@ header nav a {
     margin-left: 40px;
 }
 
-.video {
-    margin-top: 40px;
-    margin-left: 30px;
-}
 
-.get {
-    margin-left: 50px;
-}
-
-.future {
-    display: block;
-    padding-left: 680px;
-    margin-top: -480px;
-  }
 
 .sirketler {
     display: flex;
     justify-content: center;
-    margin-top: 80px;
+    margin-top: 140px;
 }
 
 
 .sirketler img  {
-    margin-right: 100px;
+    margin-right: 120px;
 }
 
 
@@ -128,13 +112,35 @@ header nav a {
 
 
 .pics {
+    display: flex;
     background-color: #0f1624;
+    margin-top: 470px;
 }
 
 
 .pics .lore {
     font-size: 16px;
 }
+
+.start img {
+    margin-left: 50px;
+}
+
+
+.video img  {
+    display: flex;
+  margin-left: 240px;
+  margin-top: -62px;
+}
+
+.future img {
+    display: flex;
+    margin-left: 700px;
+    margin-top: -500px;
+}
+
+
+
 
 
 
